@@ -55,6 +55,6 @@ The response contains a new bookingid and the submitted booking data.
 
 ## Evidence
 
-![API accepts negative totalprice when creating a booking
-](./screenshots/Screenshot 2026-10-07 153213.png)
+<img width="1791" height="987" alt="Screenshot 2026-10-07 153213" src="https://github.com/user-attachments/assets/ea2b3cba-d21d-47d0-818a-2fc6b992223c" />
+
 
