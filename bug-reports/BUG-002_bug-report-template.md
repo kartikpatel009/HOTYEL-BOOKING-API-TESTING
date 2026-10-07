@@ -1,7 +1,5 @@
 # BUG-002: <API accepts empty firstname when creating a booking>
 
-> Template only. Replace this document with a defect report after reproducing and verifying an issue. No defect is asserted by this file.
-
 - **Status:** 
 - **Severity:** Medium
 - **Environment:** QA / Test
