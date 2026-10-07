@@ -1,0 +1,4 @@
+$kind: http-request
+url: https://restful-booker.herokuapp.com/booking
+method: GET
+order: 3463948020224043
