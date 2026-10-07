@@ -1,0 +1,36 @@
+{
+  "createBooking": {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2026-10-10",
+      "checkout": "2026-10-15"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "updateBooking": {
+    "firstname": "James",
+    "lastname": "Brown",
+    "totalprice": 222,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2026-10-11",
+      "checkout": "2026-10-16"
+    },
+    "additionalneeds": "Late checkout"
+  },
+  "partialUpdate": {
+    "additionalneeds": "Airport pickup"
+  },
+  "invalidMissingFirstname": {
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2026-10-10",
+      "checkout": "2026-10-15"
+    }
+  }
+}
