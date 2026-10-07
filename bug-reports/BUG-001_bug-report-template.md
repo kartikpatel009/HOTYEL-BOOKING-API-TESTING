@@ -55,4 +55,5 @@ The response contains a new bookingid and the submitted booking data.
 
 ## Evidence
 
-Attach a genuine response, request ID, or screenshot when available.
+screenshots/Screenshot 2026-10-07 153213.png
+
